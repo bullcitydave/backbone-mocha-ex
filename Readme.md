@@ -1,3 +1,4 @@
-## Yo, I'm a Readme
+## Mocha / Chai Test Exercise
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+Writing chai test assertions against a very basic Backbone app
+(Iron Yard assignment from July 2014)
